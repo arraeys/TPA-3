@@ -1,0 +1,18 @@
+.score {
+  text-align: center;
+  justify-content: center;
+}
+
+.smalltxt {
+  font-size: 14px;
+}
+
+#nav {
+  background-color: rgb(28, 180, 235);
+}
+
+.searchbar {
+  width: 50%;
+  margin-left: 110vh;
+  margin-right: 0%;
+}
